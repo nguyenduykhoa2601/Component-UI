@@ -2,6 +2,8 @@ import React from 'react'
 
 import s from './CreateSeatMap.module.scss'
 
-export default function CreateSeatMap() {
+const CreateSeatMap = () => {
   return <div>CreateSeatMap</div>
 }
+
+export default CreateSeatMap
